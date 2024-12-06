@@ -3,7 +3,7 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
-    background-color: #eef;
+    background-color: rgb(31, 31, 137);
 }
 
 h1 {
@@ -14,7 +14,7 @@ button {
     margin-top: 20px;
     padding: 10px 15px;
     font-size: 16px;
-    background-color: #007bff;
+    background-color: #e4e7eb;
     color: white;
     border: none;
     border-radius: 5px;
